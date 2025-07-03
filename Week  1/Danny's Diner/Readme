@@ -1,1 +1,14 @@
+# 🍕 Week 1 - Danny's Diner
 
+This folder contains my SQL analysis and data cleaning for the Danny's Diner case study.
+
+## 📄 Files
+
+- `week2-queries.sql`: My answers to the case study questions.
+
+## 📌 Topics Covered
+
+- Filtering invalid data
+- JOINs and aggregation
+- Window functions (if used)
+- Date/time calculations
