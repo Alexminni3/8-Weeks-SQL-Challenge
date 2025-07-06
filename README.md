@@ -3,7 +3,7 @@ This repository contains my personal solutions to the [8-Week SQL Challenge](htt
 
 ## 📁 Case Studies
 
-- [Week 1: Danny's Diner](Week  1/Danny's Diner)
+- [Week 1: Danny's Diner](./Week-1/Danny'-Diner)
 - [Week 2: Pizza Runner](./week2-pizza-runner/)
 - [Week 3: Foodie-Fi](./week3-foodie-fi/)
 
